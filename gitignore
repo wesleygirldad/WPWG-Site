@@ -1,0 +1,22 @@
+# Mac system files
+.DS_Store
+
+# Node.js dependencies (if you later add a build step)
+node_modules/
+
+# Local environment files
+.env
+
+# Log files
+*.log
+
+# Build output (if you generate a site into a dist or build folder)
+build/
+dist/
+
+# IDE/editor folders
+.vscode/
+.idea/
+
+# OS-specific files
+Thumbs.db
